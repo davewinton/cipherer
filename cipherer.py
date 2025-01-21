@@ -62,4 +62,4 @@ class Cipherer:
 
     @staticmethod
     def dearmorize(data):
-        return b64decode(data
+        return b64decode(data)
