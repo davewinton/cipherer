@@ -1,2 +1,2 @@
-kdf_iters = 99999
+kdf_iters = 999999
 block_size = 16
